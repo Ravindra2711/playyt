@@ -31,7 +31,7 @@ Generate comprehensive reports for YouTube playlists. Get insights on total dura
 ## 💻 Setup Locally
 
 1. Clone the repository
-2. Install dependencies: `pnpm install`
+2. Install dependencies: `npm install`
 3. Create a `.env` file in the root directory and add your YouTube API key:
    ```
    VITE_YOUTUBE_API_KEY=your_api_key_here
